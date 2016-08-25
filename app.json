@@ -15,6 +15,10 @@
     "LINE_CHANNEL_MID": {
       "description": "u625acb645d3358a4c73daf0a0b07febc",
       "required": true
+    },
+    "FIXIE_URL": {
+      "description": "http://fixie:qXRcnsbUEX1p7Q1@velodrome.usefixie.com:80",
+      "required": true
     }
   },
   "addons": [

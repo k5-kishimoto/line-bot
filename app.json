@@ -5,15 +5,15 @@
   "keywords": ["line", "bot"],
   "env": {
     "LINE_CHANNEL_ID": {
-      "description": "Channel ID",
+      "description": "1465831071",
       "required": true
     },
     "LINE_CHANNEL_SECRET": {
-      "description": "Channel secret",
+      "description": "2cf8caa656a290218856922dc1d69f55",
       "required": true
     },
     "LINE_CHANNEL_MID": {
-      "description": "Channel MID",
+      "description": "u625acb645d3358a4c73daf0a0b07febc",
       "required": true
     }
   },
